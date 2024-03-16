@@ -1,7 +1,5 @@
 # Project "3D Modeling Courses"
 
-## Description
-
 The process of building the "3D Modeling Courses" layout was filled with new experiences and challenges. The main goal was to master the grid system from Bootstrap 4 and adhere to the BEM methodology for class naming.
 
 ## General Technical Requirements
